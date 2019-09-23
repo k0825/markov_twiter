@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+build/
+*.manifest
+*.spec
+config.py
+tweet.txt
