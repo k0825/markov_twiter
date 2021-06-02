@@ -67,7 +67,7 @@ tornado==4.5.3
 tqdm==4.31.1
 tweepy==3.7.0
 Twisted==19.7.0
-urllib3==1.25.5
+urllib3==1.26.5
 Werkzeug==0.16.0
 wrapt==1.11.1
 zope.interface==4.6.0
